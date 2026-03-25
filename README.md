@@ -1,4 +1,4 @@
-# 🚦 Traffic Light Using Logic ICs
+# Traffic Light Using Logic ICs
 
 A **digital logic–based traffic light controller** implemented using **combinational and sequential logic ICs** — without using any microcontroller or programmable device.
 
@@ -6,7 +6,7 @@ This project demonstrates how real-world traffic systems can be built purely wit
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The system simulates a real traffic signal with timed light transitions using logic ICs. The design focuses on understanding:
 
@@ -17,7 +17,7 @@ The system simulates a real traffic signal with timed light transitions using lo
 
 ---
 
-## ⏱ Traffic Light Timing Cycle
+## Traffic Light Timing Cycle
 
 | Light | Duration |
 |------|----------|
@@ -29,7 +29,7 @@ The cycle repeats automatically in a continuous loop.
 
 ---
 
-## 🧩 Hardware Components
+## Hardware Components
 
 Typical components used in the design include:
 
@@ -44,7 +44,7 @@ Typical components used in the design include:
 
 ---
 
-## ⚙️ Working Principle
+## Working Principle
 
 1. A clock signal is generated using a timer circuit.
 2. The clock feeds a counter IC that changes states sequentially.
@@ -56,7 +56,7 @@ This mimics the finite state machine (FSM) behavior used in real traffic control
 
 ---
 
-## 🧠 Design Concepts Used
+## Design Concepts Used
 
 - Sequential Logic
 - Clock Signals
@@ -64,21 +64,9 @@ This mimics the finite state machine (FSM) behavior used in real traffic control
 - Digital Timing Control
 - Hardware-Based Automation
 
----
+## Learning Outcomes
 
-## 📷 Circuit Diagram
-
-*(Add circuit image or schematic here)*
-
-```
-/images/circuit-diagram.png
-```
-
----
-
-## 🎯 Learning Outcomes
-
-After completing this project, you should understand:
+After completing this project:
 
 - How timing can be implemented without programming
 - Practical use of logic ICs
@@ -87,7 +75,7 @@ After completing this project, you should understand:
 
 ---
 
-## 🚀 Possible Improvements
+## Possible Improvements
 
 - Add pedestrian crossing button
 - Adjustable timing using potentiometer
@@ -97,11 +85,11 @@ After completing this project, you should understand:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Youssef Elzainy**  
 Communications Engineering Student – MSA University
 
 ---
 
-⭐ If you found this project useful, consider starring the repository!
+ If you found this project useful, consider starring the repository!
